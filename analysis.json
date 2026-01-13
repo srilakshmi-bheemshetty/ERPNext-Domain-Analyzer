@@ -1,0 +1,22 @@
+{
+  "Finance": {
+    "strengths": ["Real-time integration", "Unified ledger"],
+    "limitations": ["Localization needed for taxes"]
+  },
+  "HR": {
+    "strengths": ["Simple workflows", "Payroll integration"],
+    "limitations": ["Limited analytics"]
+  },
+  "Manufacturing": {
+    "strengths": ["End-to-end visibility", "Inventory control"],
+    "limitations": ["Customization needed for complex setups"]
+  },
+  "CRM": {
+    "strengths": ["Unified customer view"],
+    "limitations": ["Fewer advanced features"]
+  },
+  "Projects": {
+    "strengths": ["Integrated costing", "Timesheets"],
+    "limitations": ["Limited portfolio management"]
+  }
+}
